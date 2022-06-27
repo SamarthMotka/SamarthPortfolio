@@ -56,26 +56,26 @@ nav a{
 }
 .nav-a:hover::after{
     transform: translateY(9px)scale(.9);
-    border-bottom: 1px solid blue;
-    border-left: 1px solid blue;
-    border-right: 1px solid blue;
+    border-bottom: 1px solid green;
+    border-left: 1px solid green;
+    border-right: 1px solid green;
     border-top: none;
 }
 .nav-a:hover::before{
     transform: translateY(18px)scale(.8);
-    border-bottom: 1px solid blue;
-    border-left: 1px solid blue;
-    border-right: 1px solid blue;
+    border-bottom: 1px solid green;
+    border-left: 1px solid green;
+    border-right: 1px solid green;
     border-top: none;
 }
 .nav-a:hover{
     transform: translateY(5px);
-    color: blue;
+    color: green;
 }
 .nav-a:hover{
-    border-bottom: 1px solid blue;
-    border-left: 1px solid blue;
-    border-right: 1px solid blue;
+    border-bottom: 1px solid green;
+    border-left: 1px solid green;
+    border-right: 1px solid green;
     border-top: none;
     
 }
@@ -251,7 +251,7 @@ padding: 0 50px;
 
 
 .sizing:hover{
-    color: blue !important;
+    color: green !important;
 }
 
 
