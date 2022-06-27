@@ -7,15 +7,12 @@
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
 nav{
-    /* background-color: black;
-    color: white; */
     height: 4rem;
     width: 100%;
     padding: 0;
 
 
 }
-
 .nav-container{
     background-color: black;
     position: fixed;
@@ -73,8 +70,6 @@ nav a{
     border-top: none;
     
 }
-
-
 /* contact-form */
 *{
     background-color: black;
@@ -91,7 +86,7 @@ nav a{
     height: 70%;
     border-width: 4px;
     border-style: solid;
-    border-image: linear-gradient(to right, #f00, #4b0076;
+    border-image: linear-gradient(to right, rgb(246, 0, 0), #4b0076) 1;
     display: flex;
     justify-content: center;
     flex-direction: column;
