@@ -110,7 +110,7 @@ padding: 0 50px;
     height: 60%;
     width: 50%;
     padding-top: 50px;
-    /* background-image: url('profile.jpeg'); */
+    background-image: url('profile.jpeg'); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
