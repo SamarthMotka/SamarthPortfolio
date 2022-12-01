@@ -85,9 +85,9 @@ nav a{
     margin: 5.5rem 0;
     width: 80%;
     height: 70%;
-    /* border-width: 4px;
+    border-width: 4px;
     border-style: solid;
-    border-image: linear-gradient(to right, rgb(246, 0, 0), #4b0076) 1; */
+    border-image: linear-gradient(to right, rgb(246, 0, 0), #4b0076) 1; 
     display: flex;
     justify-content: center;
     flex-direction: column;
